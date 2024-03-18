@@ -1,0 +1,14 @@
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/bin/Debug/net8.0/CsharpLearning
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/bin/Debug/net8.0/CsharpLearning.deps.json
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/bin/Debug/net8.0/CsharpLearning.runtimeconfig.json
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/bin/Debug/net8.0/CsharpLearning.dll
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/bin/Debug/net8.0/CsharpLearning.pdb
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/CsharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/CsharpLearning.AssemblyInfoInputs.cache
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/CsharpLearning.AssemblyInfo.cs
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/CsharpLearning.csproj.CoreCompileInputs.cache
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/CsharpLearning.dll
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/refint/CsharpLearning.dll
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/CsharpLearning.pdb
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/CsharpLearning.genruntimeconfig.cache
+/Users/mujahid/Desktop/Mujahid/project/c#/CsharpLearning/obj/Debug/net8.0/ref/CsharpLearning.dll
